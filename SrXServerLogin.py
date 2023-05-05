@@ -1,5 +1,8 @@
 ''' 
-A very simple server 
+A simple server where you can login as panel administrators
+[DEMO Use]
+
+Developed by Abraar | @retard.sonn
 '''
 
 ##################
