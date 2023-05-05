@@ -17,7 +17,6 @@ password = 'admin@786'
 ```
 git clone https://github.com/retard-sonn/SrXServerLogin
 cd SrXServerLogin
-pip install -r requirements.txt
 python SrXServerLogin.py 
 ```
 You can rename the file by :
